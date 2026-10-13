@@ -107,20 +107,6 @@ October 13, 2026
 - Learning simple models before more complex algorithms
 - Using interpretable models as baselines
 
-## Practical Implementation
-
-- Selected a small dataset or controlled example.
-- Represented input features and target values using NumPy.
-- Calculated predictions using a chosen slope and intercept.
-- Plotted observed data points and a candidate line.
-- Compared predictions with observed values.
-
-## Experiment Record
-
-- **Assumption:** The relationship being modeled can be reasonably approximated by a straight line.
-- **Result:** Record the actual output or metric from the experiment.
-- **Limitation:** A linear model may not capture nonlinear relationships or all patterns in the data.
-- **Debugging observation:** Record an issue actually encountered and how it was checked or resolved.
 
 ## Key Takeaways
 
