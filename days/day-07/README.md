@@ -125,23 +125,6 @@ October 14, 2026
 - Using error analysis to guide model improvements
 - Verifying model outputs and numerical calculations
 
-## Practical Implementation
-
-- [ ] Create or select a small dataset with actual and predicted values.
-- [ ] Calculate residuals manually and with NumPy.
-- [ ] Calculate squared errors and SSE.
-- [ ] Calculate MSE.
-- [ ] Verify NumPy calculations against manual results.
-- [ ] Compare two sets of predictions.
-- [ ] Inspect or plot residuals for patterns.
-
-## Experiment Record
-
-- **Assumption:** Actual and predicted values correspond to the same observations.
-- **Result:** Record the actual calculated SSE/MSE and the comparison result.
-- **Limitation:** MSE is sensitive to large errors and depends on the target's scale.
-- **Debugging observation:** Record an issue you actually encountered and how you checked or resolved it.
-
 ## Key Takeaways
 
 - A residual is the actual value minus the predicted value.
