@@ -109,27 +109,6 @@ October 19, 2026
 - Debugging data and shape errors
 - Producing reproducible experiments
 
-## Practical Implementation
-
-- [ ] Prepare a small regression dataset.
-- [ ] Define features (`X`) and target (`y`).
-- [ ] Fit a `LinearRegression` model.
-- [ ] Inspect the learned coefficients and intercept.
-- [ ] Generate predictions using `predict()`.
-- [ ] Calculate MSE and inspect residuals.
-- [ ] Compare results with the NumPy implementation where practical.
-- [ ] Record assumptions, one limitation, and one debugging observation.
-
-## Experiment Record
-
-- **Dataset:** Record the dataset used.
-- **Features and target:** Record the inputs and prediction target.
-- **Coefficients and intercept:** Record the actual learned values.
-- **Evaluation metric:** Record the actual MSE and/or \(R^2\) result.
-- **Comparison:** Record the NumPy comparison result, if performed.
-- **Assumption:** Record one relevant assumption.
-- **Limitation:** Record one limitation of the experiment.
-- **Debugging observation:** Record an issue encountered or investigated.
 
 ## Key Takeaways
 
@@ -139,23 +118,5 @@ October 19, 2026
 - MSE and \(R^2\) measure different aspects of model performance.
 - Training performance alone does not establish generalization.
 - Data shapes, assumptions, and evaluation choices matter.
-
-## Self-Check
-
-- [ ] Explain the fit–predict workflow without notes.
-- [ ] Explain `coef_` and `intercept_`.
-- [ ] Describe the expected shapes of `X`, `y`, and predictions.
-- [ ] Calculate and interpret MSE.
-- [ ] Explain the difference between MSE and \(R^2\).
-- [ ] Identify one linear regression assumption.
-- [ ] Identify one failure mode or trade-off.
-- [ ] Record anything that remains unclear.
-
-## Resources
-
-- [3Blue1Brown — Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [NumPy — Absolute Beginners](https://numpy.org/doc/stable/user/absolute_beginners/)
-- [NumPy — Quickstart](https://numpy.org/doc/stable/user/quickstart.html)
-- [CampusX — 100 Days of Machine Learning](https://learnwith.campusx.in/s/preview/courses/100-Days-of-Machine-Learning-YouTube-1763210027804-6918732bee601b12112865e6)
 
 
