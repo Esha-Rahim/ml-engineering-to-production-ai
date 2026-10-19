@@ -158,17 +158,4 @@ October 19, 2026
 - [NumPy — Quickstart](https://numpy.org/doc/stable/user/quickstart.html)
 - [CampusX — 100 Days of Machine Learning](https://learnwith.campusx.in/s/preview/courses/100-Days-of-Machine-Learning-YouTube-1763210027804-6918732bee601b12112865e6)
 
-## GitHub Deliverable
 
-- [ ] Add the implementation and relevant experiment results.
-- [ ] Write a short reflection.
-- [ ] Update the README, tests, or experiment log if the interface or results change.
-- [ ] Commit the completed work with a descriptive message.
-
-**Suggested commit message:**
-
-`Add Day 9 linear regression with scikit-learn`
-
-## Profile Evidence
-
-No public LinkedIn post required today. Save one genuine evidence item, such as a metric, screenshot, comparison, debugging note, or lesson learned, for future profile updates.
